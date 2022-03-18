@@ -1,7 +1,11 @@
 # 现代计算机软硬件简介
 
-![cover](img/cover.png)
+## 概览
 
+| ![Cover](img/cover.png) | ![Cover](img/motivation.png) |![Cover](img/content1.png) |![Cover](img/content2.png) |
+|:--------:|:------------:|:-------:|:-----------:|
+| ![Cover](img/content3.png) | ![Cover](img/chapter3.png) |![Cover](img/exercise.png) |![Cover](img/chap5sec2.png) |
+| ![Cover](img/extending.png) | ![Cover](img/example.png) |![Cover](img/appendixd.png) |![Cover](img/index1.png) |
 ## 目录
 
 1. 计算机简介
@@ -112,3 +116,7 @@
 - BY：必须按照作者或者许可人指定的方式对作品进行署名
 - NC：不得为商业目的而使用本书
 - ND：不得改变、转变或更改本书
+
+## 鸣谢
+
+本书使用了[ElegantLaTeX项目](https://elegantlatex.org/)制作的[ElegantBook](https://github.com/ElegantLaTeX/ElegantBook)书籍模板。
