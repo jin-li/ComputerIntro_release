@@ -6,6 +6,17 @@
 |:--------:|:------------:|:-------:|:-----------:|
 | ![Cover](img/content3.png) | ![Cover](img/chapter3.png) |![Cover](img/exercise.png) |![Cover](img/chap5sec2.png) |
 | ![Cover](img/extending.png) | ![Cover](img/example.png) |![Cover](img/appendixd.png) |![Cover](img/index1.png) |
+
+
+## 下载PDF
+
+可以在本仓库的[发布页面(Releases)](https://github.com/jin-li/ComputerIntro_release/releases)下载本书的PDF。
+- 本仓库暂不提供本书的LaTeX源码
+- 本书后续若有修订或更新，亦会同步到本仓库的发布页面
+- 发布页面提供压缩版和未压缩版两种格式
+    - 文件名带有`_compressed`的为压缩版，文件体积小，但图片质量差
+    - 另一个为未压缩版，文件体积较大，但图片清晰度高
+
 ## 目录
 
 1. 计算机简介
